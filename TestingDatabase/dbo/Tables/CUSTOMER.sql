@@ -2,6 +2,7 @@
     [CUST_CODE]       VARCHAR (6)     NOT NULL,
     [CUST_NAME]       VARCHAR (40)    NOT NULL,
     [CUST_CITY]       CHAR (35)       NULL,
+    [CUST_CNIC]       VARCHAR (30)    NOT NULL,
     [WORKING_AREA]    VARCHAR (35)    NOT NULL,
     [CUST_COUNTRY]    VARCHAR (20)    NOT NULL,
     [GRADE]           NUMERIC (18)    NULL,
